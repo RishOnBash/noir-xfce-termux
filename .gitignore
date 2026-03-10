@@ -1,0 +1,8 @@
+# Temporary build/clone folders
+Graphite-gtk-theme/
+WhiteSur-icon-theme/
+codeface-tiny/
+
+# System/OS noise
+.DS_Store
+Thumbs.db
