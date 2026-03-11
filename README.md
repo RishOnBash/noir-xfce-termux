@@ -50,8 +50,11 @@ If changes do not take effect restart your session.
 ![Terminal](assets/screenshots/terminal.jpg)
 
 ### 📝 Editor
+
+#### Vim ⌨️
 ![Editor](assets/screenshots/vim.jpg)
 
+#### Mousepad 🐭
 ![Editor](assets/screenshots/mousepad.jpg)
 
 ---
