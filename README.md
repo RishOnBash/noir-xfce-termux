@@ -75,9 +75,14 @@ Programming Ready: Includes the Terminus font, ideal for distraction free enviro
 
 ---
 
-## 📜 Credits & Acknowledgements
+## ⚖️ License & Credits
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
+
+### 📜 Credits
 This suite simplifies the installation of several incredible open-source projects. Special thanks to:
 
 - **GTK Theme:** [Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) by @vinceliuice
 - **Icons:** [WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) by @vinceliuice
 - **Typography:** [Codeface / Terminus](https://github.com/chrissimpkins/codeface) by @chrissimpkins
+
+*Note: These assets are subject to their own respective licenses (GPL/CC). This repository does not host these files; it only facilitates their installation.*
