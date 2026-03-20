@@ -6,3 +6,8 @@ codeface-tiny/
 # System/OS noise
 .DS_Store
 Thumbs.db
+
+# Vim swap files
+*.swp
+*.swn
+*.swo
